@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYbCuiJbLfc=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\GitHub\\jakubjirout\\counter\\App\\DotNet.Docker.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.atoscz.net:8081/nexus/repository/AtosNugets/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
